@@ -15,7 +15,6 @@
 // under the License.
 // 
 
-using System;
 using System.Reflection;
 
 [assembly: AssemblyCompany ("rubicon IT GmbH")]
