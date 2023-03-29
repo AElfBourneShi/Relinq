@@ -15,7 +15,6 @@
 // under the License.
 // 
 
-using System;
 using Remotion.Utilities;
 
 // ReSharper disable once CheckNamespace
